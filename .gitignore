@@ -1,0 +1,5 @@
+# dependencies
+.idea
+.eslintcache
+/node_modules
+.env
